@@ -9,6 +9,7 @@ def find_in_file(f):
     myfile = open("sample.txt")
     fruits = myfile.read()
     fruits = fruits.splitlines()
+    print(fruits)
     if f in fruits:
         return "That fruit is in the list."
     else:
