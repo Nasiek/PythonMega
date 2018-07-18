@@ -1,6 +1,1 @@
-pear
-apple
-orange
-mandarin
-watermelon
-pomegranate
+fruits = ['pear','apple','orange','mandarin','watermelon','pomegranate']
