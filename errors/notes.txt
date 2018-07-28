@@ -1,0 +1,5 @@
+types of errors covered thus far:
+Syntax Errors: self explanatory....
+ Traceback Errors: These are also known as exceptions. They happen when you try to perform an invalid operation.
+ NameError: Trying to call an action upon a variable that hasn't previously been defined anywhere in the script.
+ZeroDivisionError: Basically trying to divide by zero.
